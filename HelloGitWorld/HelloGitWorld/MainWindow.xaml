@@ -13,6 +13,6 @@
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <Label Grid.Row="0" Grid.Column="1">Hello Git-World!</Label>
+        <Label Grid.Row="0" Grid.Column="1">Hello GIT-World!</Label>
     </Grid>
 </Window>
